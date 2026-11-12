@@ -1,4 +1,4 @@
-#BasicGrabber-Tool
+BasicGrabber-Tool
 v1.0 — first public release
 
 A local collection tool for credentials, sessions, and telemetry. Made for labs and authorized audits. It runs without a console window, hides itself, disarms Defender, encrypts everything it collects, and delivers it through a Discord webhook and/or a Telegram bot.
